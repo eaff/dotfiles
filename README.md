@@ -1,6 +1,5 @@
 # Eaff’s dotfiles
 
-![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
 
 ## Installation
 
@@ -63,7 +62,7 @@ GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 git config --global user.email "$GIT_AUTHOR_EMAIL"
 ```
 
-You could also use `~/.extra` to override settings, functions and aliases from my dotfiles repository. It’s probably better to [fork this repository](https://github.com/eagg/dotfiles/fork) instead, though.
+You could also use `~/.extra` to override settings, functions and aliases from my dotfiles repository. It’s probably better to [fork this repository](https://github.com/eaff/dotfiles/fork) instead, though.
 
 
 
@@ -74,11 +73,10 @@ Suggestions/improvements
 
 ## Author
 
-| [![twitter/EduardoFarias](https://pbs.twimg.com/profile_images/1145905640/eduardo-tw2_bigger.jpg)](https://twitter.com/EduardoFarias "Follow @EduardoFarias on Twitter") |
-|---|
-| [Eduardo Farias](https://edublogedu.blogspot.com/) |
-|---|
-| [AssisProTech] (https://edublogedu.blogspot.com/ |
+|  [![twitter/EduardoFarias](https://pbs.twimg.com/profile_images/1145905640/eduardo-tw2_bigger.jpg)](https://twitter.com/EduardoFarias "Follow @EduardoFarias on Twitter")  |
+|  [Eduardo Farias](https://edublogedu.blogspot.com/)  |
+|  [AssisProTech](https://edublogedu.blogspot.com/)  |
+
 
 ## Thanks to…
 
